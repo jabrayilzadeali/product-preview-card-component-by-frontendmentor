@@ -69,7 +69,7 @@ main {
 }
 
 .content {
-    padding: 1rem;
+    padding: 1.6rem;
 }
 
 .heading {
@@ -98,7 +98,8 @@ main {
 }
 
 .price p {
-    padding-left: 1rem;
+    padding-left: 1.5rem;
+    color: var(--Dark-cyan);
     margin: 0;
     text-decoration: line-through;
 }
@@ -110,6 +111,10 @@ main {
     font-weight: 700;
     gap: 10px;
     color: var(--White);
+}
+
+.add-to-card:hover {
+    background-color: #1a4031;
 }
 
 @media screen and (min-width: 1440px) {
@@ -126,7 +131,7 @@ main {
     }
 
     .card {
-        width: 850px;
+        width: 842px;
     }
 
 
@@ -139,17 +144,22 @@ main {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        padding: 2.5rem;
+        padding: 3rem;
     }
 
     .description {
-        padding-right: 2rem;
+        /* padding-right: 2rem; */
+        font-size: 1rem;
         margin: 0;
     }
 
+    /* .add-to-card {
+        margin-right: 2rem;
+    } */
+
 
     main {
-        height: 638.25px;
+        height: 631.25px;
     }
 
 }
