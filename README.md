@@ -30,11 +30,12 @@ Users should be able to:
 ![](./design/my_design_desktop.png)
 ![](./design/my_design_mobile.png)
 
+## My Process
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://jabrayilzadeali.github.io/product-preview-card-component-by-frontendmentor/)
+- frontendmentor URL: [here](https://www.frontendmentor.io/solutions/product-preview-card-component-by-frontendmentor-AdrNeM_7tN)
+- Live Site URL: [here](https://jabrayilzadeali.github.io/product-preview-card-component-by-frontendmentor/)
 
 
 ### Built with
